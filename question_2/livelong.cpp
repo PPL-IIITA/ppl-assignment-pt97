@@ -213,7 +213,7 @@ void make2()
     }
     cout<<"According to compatibility"<<endl;
     for(i=1;i<=k;i++)
-    	cout<<jod[i-1].getname1()<<" "<<jod[i-1].getname2()<<" "<<jod[i-1].gethappiness()<<endl;
+    	cout<<jod[i-1].getname1()<<" "<<jod[i-1].getname2()<<" "<<jod[i-1].getcompatibility()<<endl;
     for(i=1;i<=30;i++)
     	{
     	for(j=i;j<=30;j++)
@@ -239,5 +239,5 @@ void make2()
     }
     cout<<"According to happiness"<<endl;
     for(i=1;i<=k;i++)
-    	cout<<jod[i-1].getname1()<<" "<<jod[i-1].getname2()<<" "<<jod[i-1].getcompatibility()<<endl;
+    	cout<<jod[i-1].getname1()<<" "<<jod[i-1].getname2()<<" "<<jod[i-1].gethappiness()<<endl;
 }
