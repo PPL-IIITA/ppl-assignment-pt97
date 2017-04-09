@@ -1,4 +1,4 @@
-```
+
 # PPL_ASSIGNMENT
 
 ###Name - Pranjul Tripathi ROLL No - IIT2015094 Section - A
@@ -22,7 +22,7 @@ g++ random.cpp
 ./a.out
 ```
 ##Question - 1
-
+```
 g++ q1.cpp miser.cpp normal.cpp
 ./a.out
 The couples will be stored in ans1.txt file.
