@@ -1,0 +1,169 @@
+39boy 1girl get gifts
+type 3 price 29 value 37
+
+17boy 2girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+
+30boy 3girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+type 1 price 11 value 10
+type 3 price 11 value 21
+
+35boy 4girl get gifts
+type 3 price 29 value 37
+type 3 price 29 value 27
+type 3 price 16 value 35
+
+7boy 5girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+
+49boy 6girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+
+12boy 7girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 2 price 10 value 18
+
+8boy 8girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+
+31boy 9girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+
+1boy 10girl get gifts
+type 1 price 17 value 19
+
+13boy 11girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+
+34boy 12girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+
+50boy 13girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+
+33boy 14girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+
+29boy 15girl get gifts
+type 1 price 24 value 27
+
+38boy 16girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 2 price 10 value 18
+
+36boy 17girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+type 1 price 11 value 10
+
+48boy 18girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 2 price 10 value 18
+
+41boy 19girl get gifts
+type 1 price 22 value 22
+
+24boy 20girl get gifts
+type 3 price 29 value 37
+
+45boy 21girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+
+23boy 22girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+type 1 price 11 value 10
+type 3 price 11 value 21
+
+32boy 23girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+type 1 price 11 value 10
+type 3 price 11 value 21
+
+9boy 24girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 1 price 10 value 14
+type 2 price 10 value 18
+
+43boy 25girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 1 price 10 value 26
+type 2 price 10 value 18
+
+21boy 26girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 2 price 10 value 18
+
+6boy 27girl get gifts
+type 3 price 29 value 37
+type 3 price 29 value 27
+type 3 price 18 value 26
+
+11boy 28girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 2 price 10 value 18
+
+4boy 29girl get gifts
+type 3 price 10 value 32
+type 3 price 10 value 34
+type 2 price 10 value 18
+
+2boy 30girl get gifts
+type 3 price 29 value 37
+type 3 price 29 value 27
+
