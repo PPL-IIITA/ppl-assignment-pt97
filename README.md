@@ -70,4 +70,4 @@ g++ q7.cpp jodi.cpp boysgirl.cpp
 g++ q8.cpp livelong.cpp miser.cpp choosy.cpp desperate.cpp normal.cpp geeks.cpp generous.cpp luxury.cpp utility.cpp essential.cpp jodi.cpp newalgo.cpp
 ./a.out
 ```
-
+## All the class diagrams are in there respective folders and the documentation of first two qus is in there folder and rest of them is in the documentation folder to run go to the index.html file in the folder.
