@@ -6,9 +6,9 @@
 ## OVERVIEW
 ```
 
-> 1) The project currenty solves questions 1 to 8.  
-> 2) The documentation of the project has been generated. To view documentation, go to ppl/html/index.html  
-> 3) The class diagram for all the questions are in the respective folder.
+ 1) The project currenty solves questions 1 to 8.  
+ 2) The documentation of the project has been generated. To view documentation, go to documentation/index.html  
+ 3) The class diagram for all the questions are in the respective folder.
 ```
 ## BUILD SYSTEM
 
