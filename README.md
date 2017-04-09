@@ -22,6 +22,10 @@ Generate random input for boys and girls and gifts
 g++ random.cpp
 ./a.out
 
+
+### OUTPUTS are in the format of .txt files in there folders 
+
+
 ## Question - 1
 ```
 g++ q1.cpp miser.cpp normal.cpp couples.cpp
