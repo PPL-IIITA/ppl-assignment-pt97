@@ -186,8 +186,8 @@ void make2()
     	cout<<endl;
     }
     int k;
-    cout<<"give the value of k";
-    cin>>k;
+    cout<<"taking the value of k=5";
+    k=5;
     for(i=1;i<=30;i++)
     {
     	for(j=i;j<=30;j++)
